@@ -1,0 +1,3 @@
+2024-06-02 20:46:34,359 - my_app - ERROR - Fail authorization. authorization_header=Bearer dummy_to
+2024-06-02 21:05:14,116 - my_app - ERROR - Fail insert DB. request=image_path='/url/image001', request_time=2024-06-02 21:05:13.913092
+2024-06-02 21:11:58,052 - my_app - ERROR - Fail insert DB. request=image_path='/url/image001', request_time=2024-06-02 21:11:58.045078
